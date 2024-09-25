@@ -1,12 +1,6 @@
 
 # Insta-follow-botz
 
-
-
-![49071cfb-e147-485d-bad6-97570a657a21](https://user-images.githubusercontent.com/96709855/185073180-e6587b1f-80bf-4fb4-aec0-e4485e3cf519.jpg)
-
-
-
 # Features
 
 Unfollow Tracker
@@ -66,7 +60,7 @@ https://www.instamod.net/2021/08/insta-thunder-latest-version-apk.html?m=1
 ` apt install git curl openssh openssl openssl-tool -y `
 #
 
-` git clone https://github.com/DRACULA-HACK/insta-follow-botz.git `
+` git clone https://github.com/ziddi-shop/hack-ig-followers.git `
 
 ` cd insta-follow-botz `
 
@@ -81,11 +75,7 @@ Or
 #
 # gave the credit 
 # Insta
-https://instagram.com/_master_hack_?igshid=YmMyMTA2M2Y=
+https://www.instagram.com/qx.fx._/?utm_source=ig_web_button_share_sheet
 #
 # YouTube
-https://youtube.com/channel/UC5HIWT2iUznhNFX0BzukXUQ
-#
-# whatsapp 
-https://wa.me/+916235369260
-#
+https://youtube.com/@ziddi_shop?si=Lh_zrd4_f-xnCP7x
